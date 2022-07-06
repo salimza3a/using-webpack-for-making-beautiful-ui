@@ -1,0 +1,9 @@
+.img-logo {
+    width: 80px;
+}
+
+.class-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
